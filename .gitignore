@@ -1,0 +1,9 @@
+# environment / configs (if any)
+.env
+
+# tool folders
+.qodo/
+
+# system files
+.DS_Store
+Thumbs.db
